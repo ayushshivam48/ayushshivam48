@@ -33,4 +33,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushshivam48&show_icons=true&locale=en" alt="ayushshivam48" /></p>
 
+[![An image of @ayushshivam48's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayushshivam48)](https://holopin.io/@ayushshivam48)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushshivam48&" alt="ayushshivam48" /></p>
