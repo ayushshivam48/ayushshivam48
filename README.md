@@ -56,7 +56,7 @@ As the **Co-Founder** of **bitfusion**, a dynamic technical community of develop
 | Qualification                    | Institution               | Year         | Stream / Focus                                         | 
 |-----------------------------------|---------------------------|--------------|--------------------------------------------------------|
 | Bachelor of Computer Applications | Amity University, Patna   | 2023–2026    | Computer Applications                                  |
-| Class 12 (CBSE)                   | St. Paul Secondary School       | 2021–2022    | Science (PCM) |    |
+| Class 12 (CBSE)                   | St. Paul Sr. Secondary School       | 2021–2022    | Science (PCM) |    |
 | Class 10 (CBSE)                   | New Holy Ganges Public School      | 2019–2020    | General, Maths Standard                                              | 
 
 ---
@@ -106,7 +106,7 @@ Built a robust website tailored to mining sector clients, presenting operational
 - **🎓 Programming in Java**  
   *Issued by NPTEL & IIT Kharagpur*  
   Successfully completed a rigorous academic course on Java programming fundamentals through NPTEL, in collaboration with IIT Kharagpur. Demonstrated proficiency in object-oriented programming, core Java concepts, algorithms, and problem-solving techniques applicable to industry use cases.  
-  [View Certificate]([https://drive.google.com/file/d/1eAw3tDJtNfuSEX_2QUyt6yPV4_sFZksY/view](https://drive.google.com/file/d/1YE3S9OgkwRC8uPGALcpZ1IKJnu374oJq/view?usp=drive_link))
+   [View Certificate](https://drive.google.com/file/d/1YE3S9OgkwRC8uPGALcpZ1IKJnu374oJq/view?usp=drive_link)
 
 ---
 <div align="center" style="margin-top: 20px;">
