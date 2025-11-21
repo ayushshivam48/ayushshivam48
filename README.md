@@ -97,9 +97,10 @@ Built a robust website tailored to mining sector clients, presenting operational
 * **Database:** MySQL, MongoDB, 
 * **Data Science:** Jupyter Notebook, Google Colab.
 
-  * **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, YFinance, and many more
+  * **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, YFinance, OpenCV, and many more
 * **Other Tools:** GitHub, Vercel, Netlify, Render, VS Code, Gitlab
-* **Programming Languages:** Python, Java, Javascript, C++
+* **Programming Languages:** Python, Java, Javascript, C++, Typescript
+* **AI/ML:** ANN, CNN, RNN, Decision Tree, Linear Regression, Logistic Regression, Random Forest, Gradient Descent, Support Vector Machine
 
 ## 📜 Certifications
 
