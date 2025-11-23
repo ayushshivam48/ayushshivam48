@@ -51,6 +51,21 @@ As the **Co-Founder** of **bitfusion**, a dynamic technical community of develop
 
 ---
 
+- **🛡️ MERN Stack Developer — InternNexus**  
+  *🗓️ Jun 2025 – July 2025 | 🌍 On-Site Internship*  
+  - Developed a complete **full-stack MERN application**, building responsive UI components using **React.js** and **Tailwind CSS**, and integrating them with a robust Express.js backend.  
+  - Designed and optimized **RESTful APIs** using Express.js, thoroughly tested with **Postman**, ensuring smooth, secure communication across the entire application.  
+  - Worked with **MongoDB Atlas** for database modeling, CRUD operations, and cloud deployment, while leveraging **GitLab** for version control, collaboration, and efficient workflow management.  
+  - 🔧 **Stack:**  
+    ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+    ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+    ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-47A248?logo=mongodb&logoColor=white)
+    ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+    ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
+    
+---
+
 ## 🎓 Education
 
 | Qualification                    | Institution               | Year         | Stream / Focus                                         | 
