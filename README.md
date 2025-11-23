@@ -65,7 +65,18 @@ As the **Co-Founder** of **bitfusion**, a dynamic technical community of develop
   
 - 🛠️ **Open Source Developer — Major League Hacking (MLH)**   
 - 🌱 **Hacktoberfest 2025 — Open Source Contributor**  
-- 🥈 **NPTEL Certified Silver Elite - Programming in Java**  
+- 🥈 **NPTEL Certified Silver Elite — Programming in Java**
+- 🎓 **Generative AI Professional — Oracle**  
+  *Issued Oct 2025 · Expires Oct 2027*  
+  **Skills:** Generative AI · Artificial Intelligence (AI) · Machine Learning · Oracle Cloud  
+- 🎓 **AI Foundations Associate — Oracle**  
+  *Issued Sep 2025 · Expires Oct 2027*  
+  **Skills:** Artificial Intelligence (AI) · Oracle Cloud  
+- 🎓 **Data Science Professional — Oracle**  
+  *Issued Sep 2025 · Expires Oct 2027*  
+  **Skills:** Data Science · Oracle Cloud  
+
+  
 ---
 ## 🚀 Featured Projects
 ### 💼 [Xyphor Advisors – Consulting Website](https://xyphoradvisors.netlify.app/)
