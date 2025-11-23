@@ -66,15 +66,6 @@ As the **Co-Founder** of **bitfusion**, a dynamic technical community of develop
 - 🛠️ **Open Source Developer — Major League Hacking (MLH)**   
 - 🌱 **Hacktoberfest 2025 — Open Source Contributor**  
 - 🥈 **NPTEL Certified Silver Elite — Programming in Java**
-- 🎓 **Generative AI Professional — Oracle**  
-  *Issued Oct 2025 · Expires Oct 2027*  
-  **Skills:** Generative AI · Artificial Intelligence (AI) · Machine Learning · Oracle Cloud  
-- 🎓 **AI Foundations Associate — Oracle**  
-  *Issued Sep 2025 · Expires Oct 2027*  
-  **Skills:** Artificial Intelligence (AI) · Oracle Cloud  
-- 🎓 **Data Science Professional — Oracle**  
-  *Issued Sep 2025 · Expires Oct 2027*  
-  **Skills:** Data Science · Oracle Cloud  
 
   
 ---
@@ -119,6 +110,29 @@ Built a robust website tailored to mining sector clients, presenting operational
   *Issued by NPTEL & IIT Kharagpur*  
   Successfully completed a rigorous academic course on Java programming fundamentals through NPTEL, in collaboration with IIT Kharagpur. Demonstrated proficiency in object-oriented programming, core Java concepts, algorithms, and problem-solving techniques applicable to industry use cases.  
    [View Certificate](https://drive.google.com/file/d/1YE3S9OgkwRC8uPGALcpZ1IKJnu374oJq/view?usp=drive_link)
+  
+- **🗄️ CRUD Operations in MongoDB**
+Issued by MongoDB University
+Completed an in-depth course focused on performing Create, Read, Update, and Delete (CRUD) operations in MongoDB. Gained hands-on experience with NoSQL database concepts, schema design, querying, and data manipulation using MongoDB tools and best practices.
+[View Certificate]([https://drive.google.com/file/d/1YE3S9OgkwRC8uPGALcpZ1IKJnu374oJq/view?usp=drive_link](https://drive.google.com/file/d/1aW4jcAFxe89_WNo2BQoYPO8YewSIcuoa/view?usp=drive_link))
+
+- **🧠 AI Foundations Associate**
+Issued by Oracle
+Successfully completed the Oracle AI Foundations Associate certification, gaining essential knowledge of artificial intelligence concepts, machine learning fundamentals, and the application of AI tools within Oracle Cloud.
+Validity: Sep 2025 – Oct 2027
+[View Certificate]([https://drive.google.com/file/d/1YE3S9OgkwRC8uPGALcpZ1IKJnu374oJq/view?usp=drive_link](https://drive.google.com/file/d/1WBV1PfeV2YjDQvVIQ76wox-8vXq8cU8f/view?usp=drive_link))
+
+- **🤖 Generative AI Professional**
+Issued by Oracle
+Earned the Oracle Generative AI Professional certification, demonstrating advanced understanding of generative AI techniques, machine learning workflows, LLM fundamentals, and AI deployment on Oracle Cloud infrastructure. Strengthened skills in prompt engineering, AI governance, and cloud-based AI solutions.
+Validity: Oct 2025 – Oct 2027
+[View Certificate]([https://drive.google.com/file/d/1YE3S9OgkwRC8uPGALcpZ1IKJnu374oJq/view?usp=drive_link](https://drive.google.com/file/d/1MwQSpvsi372v4O7OzZefT5hszfaehUKJ/view?usp=sharing))
+
+- **📊 Data Science Professional**
+Issued by Oracle
+Achieved the Oracle Data Science Professional certification, demonstrating proficiency in analytical methods, machine-learning model development, and end-to-end data workflows using Oracle Cloud. Covered data preprocessing, model evaluation, and real-world data science practices.
+Validity: Sep 2025 – Oct 2027
+[View Certificate]([https://drive.google.com/file/d/1YE3S9OgkwRC8uPGALcpZ1IKJnu374oJq/view?usp=drive_link](https://drive.google.com/file/d/138EdwaPkEUYuR7MLmRPJB5fPLcaQIw1i/view?usp=sharing))
 
 ---
 <div align="center" style="margin-top: 20px;">
